@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+    align-items: center;
+    
+}
+main{
+    background-color: rgba(30, 143, 255, 0.379);
+    border-radius: 26px ;
+    border: solid dodgerblue;
+}
